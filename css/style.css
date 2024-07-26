@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-container{
+    height: 80px;
+    width: 1200px;
+    margin-left: 150px;
+    display: flex;
+    
+}
+.Content{
+    height:80px;
+    width: 700px;
+    display: flex;
+
+    justify-content: space-evenly;
+        position: relative;
+    right: -341px;
+    
+}
+.Content button{
+    border: 1px solid black;
+    height: 50px;
+    width: 120px;
+    border-radius: 30px;
+    border: none;
+}
+.Container-1{
+    height: 500px;
+    width: 1300px;
+    margin-left: 150px;
+    
+    display: flex;
+}
+.head{
+    height: 470px;
+    width: 600px;
+    
+}
+.head h1{
+    font-size: 61px;
+    font-weight: 100;
+    color: #B24020;
+}
+.head button{
+    height: 47px;
+    background-color: transparent;
+    width: 372px;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+
+.Container-2{
+    height: 400px;
+    width: 1300px;
+    margin-left: 150px;
+
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    margin-top: 55px;
+}
+.head-Container{
+    height: 380px;
+    width: 500px;
+
+}
+.head-Container h1{
+font-size: 55px;
+font-weight: 100;
+}
+.head-Container p{
+    font-size: 20px;
+}
+.button-Container{
+    height: 380px;
+    width: 500px;
+    
+}
+.button-Container button{
+    height: 50px;
+    width: 160px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+.Container-3{
+    height: 300px;
+    background-color: rgba(227, 183, 129, 0.286);
+    display: flex;
+    
+    padding-bottom: 1px;
+}
+.Container-3 h1{
+    height: 290px;
+    width: 300px;
+    margin-left: 250px;
+    padding-top: 64px;
+    
+    font-size: 40px;
+    font-weight: 600;
+
+}
+.Container-3 button{
+    height: 50px;
+    width: 150px;
+ margin-top: 120px;
+ margin-left: 300px;
+    border-radius: 20px;
+    
+}
+.Container-4{
+    height: 700px;
+    width: 1300px;
+    
+    display: flex;
+}
+.Container-4-Content{
+    height: 400px;
+    width: 400px;
+    background-color: rgba(0, 255, 255, 0.519);
+}
+.Container-image{
+    height: 300px;
+    width: 500px;
+    background-color: rgb(132, 109, 80);
+}
+.Container-5{
+    height: 250px;
+    width: 1000px;
+    
+    margin-left: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+
+}
+.Box-1{
+    height: 249px;
+     width: 400px; 
+    
+}
+.Box-1 button{
+    height: 60px;
+    width: 200px;
+    border-radius: 20px;
+    
+    color: rgba(17, 20, 17, 0.89);
+    font-size: 20px;
+
+}
+.Box-1 h1{
+    font-size: 43px;
+    font-weight: 400;
+    
+}
+.Box-2 h1{
+    font-size: 43px;
+    font-weight: 400;
+    
+}
+.Container-6{
+    height: 700px;
+    width: 100%;
+    background-color: rgba(222, 208, 166, 0.253);
+    margin-top: 50px;
+    display: flex;
+    
+}
+.Content-box{
+    position: relative;
+    top: 300px;
+    margin-left: 196px;
+    height: 400px;
+    width: 45%;
+    
+}
+.Content-box button{
+    text-align: start;
+    width: 402px;
+    height: 65px;
+    margin-bottom: 17px;
+    border: none;
+    padding-left: 14px;
+    background-color: rgba(222, 208, 166, 0.467);
+
+
+}
+.Container-7{
+    margin-top: 80px;
+    height: 500px;
+    width: 100%;
+    background-color: rgba(225, 238, 130, 0.468);
+    
+}
