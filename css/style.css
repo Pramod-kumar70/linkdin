@@ -26,6 +26,7 @@
     width: 120px;
     border-radius: 30px;
     border: none;
+    background-color: rgba(0, 0, 255, 0.351);
 }
 .Container-1{
     height: 500px;
@@ -193,4 +194,50 @@ font-weight: 100;
     width: 100%;
     background-color: rgba(225, 238, 130, 0.468);
     
+}
+.video-Container{
+
+    height: 400px;
+    width: 100%;
+    background-color: violet;    
+
+}
+
+.Container-8{
+    height: 700px;
+    width: 100%;
+    
+}
+.Container-8-head h2{
+    font-size: 3rem;
+    font-weight: 300;
+    margin-left: 200px;
+    padding-bottom: 50px;
+}
+.Container-8-head button{
+    height: 50px;
+    width: 130px;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    font-size: 15px;
+    margin-left: 200px;
+}
+.Container-footer
+{
+    height: 600px;
+    width: 100%;
+    
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.seCtion-1{
+    height: 300px;
+    width: 150px;
+    
+    margin-top: 160px;
+    padding-left: 15px;
+
 }
